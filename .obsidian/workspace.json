@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "276c8f36a99a7895",
+        "id": "07760c4661a3f065",
         "type": "tabs",
         "children": [
           {
-            "id": "7abbed072c6054cf",
+            "id": "397d8607ef3895bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "helidon.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "helidon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "helidon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "helidon.md"
+              }
             }
           }
         ]
@@ -128,9 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7abbed072c6054cf",
+  "active": "397d8607ef3895bf",
   "lastOpenFiles": [
+    "index.md",
     "helidon.md",
-    "index.md"
+    "helidon.html.md"
   ]
 }
