@@ -27,8 +27,8 @@ mvn -U archetype:generate -DinteractiveMode=false \
 -Dpackage=io.helidon.examples.quickstart.mp
 ```
 
-We can also generate a project using their starter page: https://helidon.io/starter/3.1.0
-
+We can also generate a project using their starter page: [https://helidon.io/starter/3.1.0](https://helidon.io/starter/3.1.0)
+ 
 ### Build
 
 Build it:
@@ -62,4 +62,4 @@ curl -s -X GET http://localhost:8080/metrics
 curl -H 'Accept: application/json' -X GET http://localhost:8080/metrics
 ```
 
-[[index]]
+[home](index.md)
