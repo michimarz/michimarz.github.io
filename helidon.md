@@ -14,9 +14,9 @@ Two flavours:
 
 ## How to use
 
-### Generate code
+### Generate sample code
 
-To start, use mvn archetype (here is for MP version):
+To start, let's use mvn archetype (here is for MP version):
 ```sh
 mvn -U archetype:generate -DinteractiveMode=false \
 -DarchetypeGroupId=io.helidon.archetypes \
@@ -26,6 +26,8 @@ mvn -U archetype:generate -DinteractiveMode=false \
 -DartifactId=helidon-demo \
 -Dpackage=io.helidon.examples.quickstart.mp
 ```
+
+We can also generate a project using their starter page: https://helidon.io/starter/3.1.0
 
 ### Build
 
@@ -40,7 +42,7 @@ It creates small helidon-demo.jar (name taken from artefactId param above) in th
 
 ### Run
 
-Run the app:
+To run the app:
 ```sh
 java -jar target/helidon-demo.jar
 ```
@@ -53,9 +55,11 @@ curl -X PUT -H "Content-Type: application/json" -d '{"greeting" : "Hola"}' http:
 curl -X GET http://localhost:8080/greet/Jose {"message":"Hola Jose!"}
 ```
 
-You also get health and metrics for free:
+We also get health and metrics for free:
 ```sh
 curl -s -X GET http://localhost:8080/health
 curl -s -X GET http://localhost:8080/metrics
 curl -H 'Accept: application/json' -X GET http://localhost:8080/metrics
 ```
+
+[[index]]
