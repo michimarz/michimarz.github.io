@@ -1,4 +1,4 @@
-We can set the <scope> property in pom.xml as provided:
+We can set the "scope" property in pom.xml as provided:
 ```xml
 	<scope>provided</scope>
 ```
