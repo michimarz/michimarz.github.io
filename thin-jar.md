@@ -11,4 +11,9 @@ So:
 - we deploy the thin jar to the remote application server
 - the application server uses its own included libraries to execute our jar
 
+Main idea:
+- I don't care if I change from Payara to another server - as long as it conforms to the Jakarta EE standards, the app will run on it, and I only need to deploy a small jar
+
+
+
 
