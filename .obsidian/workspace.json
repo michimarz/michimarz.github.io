@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a4f5075baa7eb05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "curl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "effc783c65dcebb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cloud-native-vs-on-premise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2ab266cfc871b4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "singleton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thin-jar.md",
+                "file": "singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thin-jar.md",
+                "file": "singleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thin-jar.md"
+                "file": "singleton.md"
               }
             }
           }
@@ -159,10 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "275690d2bac4a1fb",
+  "active": "c2ab266cfc871b4d",
   "lastOpenFiles": [
-    "index.md",
+    "cloud-native-vs-on-premise.md",
     "thin-jar.md",
+    "index.md",
+    "curl.md",
     "helidon.md",
     "helidon.html.md"
   ]
