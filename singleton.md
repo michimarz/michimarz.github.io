@@ -1,4 +1,5 @@
 Let's always use enum to implement Singleton pattern. 
+
 This is the recommended method, because it doesn't have problems with serialization or reflection. It 100% guarantees there is only one instance of the singleton present within the JVM.
 
 ```java

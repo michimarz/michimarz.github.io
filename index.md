@@ -8,6 +8,10 @@
 
 [Cloud-native vs. On-premise](cloud-native-vs-on-premise.md)
 
+[Quarkus standards](quarkus-standards.md)
+
+
+
 
 
 

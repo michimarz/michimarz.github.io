@@ -61,6 +61,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "cloud-native-vs-on-premise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e61214a7e80bdacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "index.md",
                 "mode": "source",
                 "source": false
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,12 +207,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2ab266cfc871b4d",
+  "active": "e61214a7e80bdacd",
   "lastOpenFiles": [
-    "singleton.md",
+    "quarkus-standards.md",
     "cloud-native-vs-on-premise.md",
-    "thin-jar.md",
+    "singleton.md",
     "index.md",
+    "thin-jar.md",
     "curl.md",
     "helidon.md",
     "helidon.html.md"
