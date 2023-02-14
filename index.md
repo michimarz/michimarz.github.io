@@ -10,6 +10,7 @@
 
 [Quarkus standards](quarkus-standards.md)
 
+[Quarkus app with Postgres storage](postgres-quarkus.md)
 
 
 
