@@ -13,6 +13,7 @@ So:
 
 Main idea:
 - I don't care if I change from Payara to another server - as long as it conforms to the Jakarta EE standards, the app will run on it, and I only need to deploy a small jar
+- So, the MOVING PARTS ARE TINY (between my machine and server/cloud), and STATIC PARTS include as many things as possible (you move them only once (in a while))
 
 
 

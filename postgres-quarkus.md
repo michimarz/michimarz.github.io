@@ -27,7 +27,11 @@ quarkus-cli add quarkus-hibernate-orm-panache quarkus-jdbc-postgresql
 
 You also need to configure the database connection details in your `application.properties` or `application.yaml` file:
 
-```text
-quarkus.datasource.url=jdbc:postgresql://<host>:<port>/<database> quarkus.datasource.username=<username> quarkus.datasource.password=<password> quarkus.datasource.driver=org.postgresql.Driver
+```properties
+quarkus.datasource.url=jdbc:postgresql://<host>:<port>/<database>
+
+quarkus.datasource.username=<username> quarkus.datasource.password=<password> 
+
+quarkus.datasource.driver=org.postgresql.Driver
 ```
 
