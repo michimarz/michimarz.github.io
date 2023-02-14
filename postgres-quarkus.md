@@ -29,9 +29,8 @@ You also need to configure the database connection details in your `application.
 
 ```properties
 quarkus.datasource.url=jdbc:postgresql://<host>:<port>/<database>
-
-quarkus.datasource.username=<username> quarkus.datasource.password=<password> 
-
+quarkus.datasource.username=<username>
+quarkus.datasource.password=<password> 
 quarkus.datasource.driver=org.postgresql.Driver
 ```
 
