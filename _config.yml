@@ -16,7 +16,7 @@ timezone:
 
 title: Blog  # the main title
 
-tagline: This is a blog of Mr. Michi Marzo, a member of the Projekt Lotus initiative.
+tagline: This is a blog of Mr. Michi Marzo. Mr. Marzo is a member of the Projekt Lotus initiative.
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
