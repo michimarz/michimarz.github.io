@@ -42,6 +42,13 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
+michi_marzo:
+    name: Michi Marzo
+    email: michimarzo@gmail.com
+thomas_schwarz:
+    name: Thomas Schwarz
+    email: projekt8w@gmail.com
+    
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
