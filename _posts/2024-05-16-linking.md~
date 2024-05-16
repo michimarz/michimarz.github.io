@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Linking with gcc and clang"
+tags: C tools
+---
+
+## Fundamentals
+
+Libs can be:
+- static
+- dynamic
+
+Static:
+- 
