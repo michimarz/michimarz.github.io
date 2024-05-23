@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Function pointers""
-author: thomas_schwarz
+title: "Function pointers"
+author: michi_marzo
 tags: C
 ---
 
-## Function pointer
+## Function pointers
 
 This is a function
 
