@@ -9,26 +9,26 @@ tags: C
 
 This is a function
 
-```C
+```c
 int something(char* s);
 
 ```
 
 this is also a function:
 
-```C
+```c
 int (something)(char* s);
 
 ```
 
 And this is a variable (that can point to a function with the given signature):
 
-```C
+```c
 int (*something)(char* s);
 ```
 
-So we need:\
-- an asterisk in front of the name\
+So we need:
+- an asterisk in front of the name
 - parentheses\
 and we get a *function pointer*.
 
