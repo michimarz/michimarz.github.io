@@ -29,7 +29,9 @@ int (*something)(char* s);
 
 So we need:
 - an asterisk in front of the name
-- parentheses\
+- parentheses
+
+
 and we get a *function pointer*.
 
 
