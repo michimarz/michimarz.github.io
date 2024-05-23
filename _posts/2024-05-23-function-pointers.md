@@ -7,19 +7,19 @@ tags: C
 
 ## Function pointers
 
-This is a function
+This is a function declaration:
 
 ```c
 int something(char* s);
 ```
 
-this is also a function:
+this is also a function declaration:
 
 ```c
 int (something)(char* s);
 ```
 
-And this is a variable (that can point to a function with the given signature):
+And this is a variable declaration (this variable can point to a function with this signature):
 
 ```c
 int (*something)(char* s);

@@ -1,1 +1,1 @@
-git add .; git commit -m 'New post - function pointers'; git push origin main
+git add .; git commit -m '\$1'; git push origin main
