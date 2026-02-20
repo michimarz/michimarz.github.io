@@ -1,8 +1,0 @@
----
-layout: post
-title: "Linking with gcc and clang"
-author: thomas_schwarz
-tags: C tools
----
-
-## Function pointer
